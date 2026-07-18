@@ -31,7 +31,7 @@ git clone https://github.com/GioXx743/Subdominio
 ### One Click Installation :
 
 ```
-apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/GioXx743/Subdominio
+apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/mao2116/mmail
 
 ```
 
