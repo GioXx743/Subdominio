@@ -24,14 +24,14 @@ apt install git -y
 
 pip install requests
 
-git clone https://github.com/GioXx743/Subdominio
+git clone https://github.com/mao2116/mmail
 
 ```
 
 ### One Click Installation :
 
 ```
-apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/GioXx743/Subdominio
+apt update -y ; apt install python -y ; apt install git -y ; pip install requests ; git clone https://github.com/mao2116/mmail
 
 ```
 
@@ -41,7 +41,7 @@ apt update -y ; apt install python -y ; apt install git -y ; pip install request
 ### FOR RUN :
 
 ```
-cd subdominio
+cd dominio
 
 python mmail.py
 
