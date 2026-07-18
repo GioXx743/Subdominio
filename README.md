@@ -1,0 +1,2 @@
+# Subdominio
+Scrip Termux
